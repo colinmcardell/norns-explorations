@@ -1,0 +1,17 @@
+{
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+  "Lua.completion.requireSeparator": "/",
+  "Lua.diagnostics.disable": [
+    "lowercase-global"
+  ],
+  "Lua.diagnostics.enable": true,
+  "Lua.diagnostics.globals": [
+    "_norns"
+  ],
+  "Lua.format.defaultConfig": {
+    "indent_size": "2",
+    "indent_style": "space"
+  },
+  "Lua.runtime.version": "Lua 5.3",
+}
